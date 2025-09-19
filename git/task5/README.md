@@ -11,6 +11,7 @@ First login to the storage server
 
 CD to the specific folder 
 ``cd /usr/src/kodekloudrepos/ecommerce``
+
 Check git branch
 ``sudo git branch``
 
