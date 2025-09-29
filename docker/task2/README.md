@@ -9,7 +9,8 @@ On Application Server 1 create a container named nginx_1 using the nginx image w
 Login to the application server 1
 Then run the below command to create containter named nginx_1
 
-```docker run -d --name nginx_1 nginx:alpine
+```bash 
+docker run -d --name nginx_1 nginx:alpine
 ```
 
 ### step2
